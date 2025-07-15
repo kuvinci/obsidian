@@ -1,0 +1,36 @@
+{
+  "show-checkboxes": false,
+  "tag-colors": [
+    {
+      "tagKey": "#p1",
+      "color": "rgba(255, 255, 255, 1)",
+      "backgroundColor": "rgba(158, 0, 0, 0.6)"
+    },
+    {
+      "tagKey": "#p2",
+      "color": "rgba(255, 255, 255, 1)",
+      "backgroundColor": "rgba(136, 127, 0, 1)"
+    },
+    {
+      "tagKey": "#p3",
+      "color": "rgba(255, 255, 255, 1)",
+      "backgroundColor": "rgba(0, 120, 0, 1)"
+    }
+  ],
+  "tag-sort": [
+    {
+      "tag": "#p1"
+    },
+    {
+      "tag": "#p2"
+    },
+    {
+      "tag": "#p3"
+    }
+  ],
+  "new-card-insertion-method": "prepend",
+  "hide-card-count": false,
+  "move-tags": true,
+  "tag-action": "kanban",
+  "move-dates": true
+}

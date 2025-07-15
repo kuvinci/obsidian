@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "0f1e90427cb208dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "f048b39aa4eaa9a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "842f0c02cb4f54de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Programming/Backend ALL-IN-ONE.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Backend ALL-IN-ONE"
+            }
+          },
+          {
+            "id": "5703a4c11746f7db",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-08-30 17.11.38.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-08-30 17.11.38.excalidraw"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "99ec696d92bd8f4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d282c3437ceae43c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "238de320deb5381c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ada682f9d4a9eea1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0b3d5633112950db",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "5d11ad5808c6126f",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Tag Folder"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 336.5
+  },
+  "right": {
+    "id": "3bfc2ab472a7d983",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f73a6f1bf6832d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8502dffca76abac6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Learning/Vim/Vim поради.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Vim поради"
+            }
+          },
+          {
+            "id": "be827704669b52ca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0d9b785501745eae",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Learning/Vim/Vim поради.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Vim поради"
+            }
+          },
+          {
+            "id": "5d964a7ce3011e24",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "238de320deb5381c",
+  "lastOpenFiles": [
+    "Drawing 2025-04-02 19.29.03.excalidraw.md",
+    "Learning/Back-End/Custom HTTP Server.md",
+    "Work/Interviews/Olexandr (Alex) Kuzub Laravel Resume.md",
+    "Learning/Programming/Backend ALL-IN-ONE.md",
+    "Work/Interviews/Interview questions (technical).md",
+    "Learning/Laravel/Devilbox (Laravel project).md",
+    "Learning/Laravel/Eager loading.md",
+    "Work/Interviews/Interview questions (soft-skills).md",
+    "System/Attachments/Pasted image 20250531214009.png",
+    "System/Attachments/Pasted image 20250531213950.png",
+    "System/Attachments/Pasted image 20250531213935.png",
+    "System/Attachments/Pasted image 20250531213921.png",
+    "System/Attachments/Pasted image 20250531213904.png",
+    "System/Attachments/Pasted image 20250531213852.png",
+    "System/Attachments/Pasted image 20250531213820.png",
+    "System/Attachments/Pasted image 20250531213808.png",
+    "System/Attachments/Pasted image 20250531213755.png",
+    "System/Attachments/Pasted image 20250531213729.png",
+    "Work/Eddy/Tasks/Масове завантаження юзерів з CSV.md",
+    "Work/Eddy/Tasks/Class Managers.md",
+    "Work/Eddy/Tasks/Tasks.md",
+    "Work/Eddy/Notes for learning.md",
+    "Linux commands/kill port.md",
+    "Work/Tasks Kanban.md",
+    "Linux commands/docker stop $(docker ps -a -q).md",
+    "Linux commands/(rsync) Deploy files trough ssh console.md",
+    "Linux commands/eval \"$(ssh-agent -s)\".md",
+    "Test pensil.md",
+    "Untitled.md",
+    "Untitled Kanban.md",
+    "Work/Eddy/Tasks/Розклад ПТУ.md",
+    "WordPress концептуально.md",
+    "System/Attachments/WordPress концептуально 2025-04-12 22.30.39.excalidraw.md",
+    "Excalidraw/Drawing 2025-04-12 22.29.53.excalidraw.md",
+    "Excalidraw/Drawing 2025-04-02 18.19.43.excalidraw.md",
+    "Work/Eddy/Tasks/Subjects (Предмети).md",
+    "Learning/WordPress",
+    "Excalidraw",
+    "Work/Eddy/Meet Notes",
+    "Work/Eddy/Tasks",
+    "Work/Access",
+    "Work/Interviews",
+    "Learning/Vim",
+    "Learning/Back-End/MySQL",
+    "Work/Eddy",
+    "Learning/Algorithms",
+    "Untitled.canvas"
+  ]
+}

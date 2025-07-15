@@ -1,0 +1,67 @@
+
+ #Laravel #notes
+
+- [x] Почитати за DB::connection('legacy)
+	- [ ] Просто альтернативне підключення
+- [x] Що таке volumes в докер конфіг файлі
+	- [ ] Окремий сторедж, який можна юзати в контейнерах, наприклад тримати там базу, до якої будуть мати доступ контейнери. Надійне, бо не залежить від змін в контейнерах.
+- [x] Почитати за Swagger
+- [x] Що таке DTO в Laravel
+- [x] Що таке PDO коннекш
+	- [ ] Підключення до бази, альтернатива для mysqli, лімітована, але зручна у використанні. Короче кажучи, layer НАД дефолтним API бази, який не дає доступу до API але дозволяє легко і зручно під'єднуватись до SQL бази
+- [x] composer dump-autoload
+	- [ ] База, грунт, фундамент. Автолоад класів через компосер. А цією командою ми "ресетимо" автолоад, щоб нові класи лоадились коректно
+- [x] PDO bindings
+	- [ ] Об'єднання параметрів запиту в базу, я так поняв для того щоб захиститись від ін'єкцій
+- [ ] Розібрати синхронізацію баз в CRM та основному продукті
+- [x] Моки та стаби в ларавелі. Масив зі стабами
+	- [ ] Просто фічі для тестування, можна феконути якийсь функціонал (мокнути), щоб робити ізольовані тести
+- [x] tap($chat)->save()
+- [ ] **Redis/RabbitMQ/Kafka**
+- [ ] YAGNI принцип розробки
+- [ ] https://deployer.org/
+- [ ] https://github.com/spatie/laravel-stubs?tab=readme-ov-file
+- [ ] Можно змінити пам'ять для php.ini окремою командою на початку скріпта
+- [ ] Enum casting
+- [ ] composite index on (`recipient_type`, `recipient_id`)
+- [ ] ->load('user') або whenLoaded()
+- [ ] Schema це і є одна транзакція
+- [ ] Поліморфний зв'язок в Ларавель - https://laravel.com/docs/11.x/eloquent-relationships#polymorphic-relationships
+- [ ] Фейкування черги в тестах
+- [ ] Що таке команди для перерахування моделей?
+- [ ] Filament пакет для генерації адмінки
+- [ ] Що таке біквері?
+- [ ] Що це таке? `app(DetachUsersFromNotification::class)`
+- [ ] Розібратись в `NotificationTransformerFactory`
+- [ ] ChatTransformerFactory(factory) та NullObject паттерни
+- [ ] Розібрати Participants, зрозуміти де там фекторі і нуллОбджект
+- [ ] Event::fake() AND Email::fake() 
+- [ ] return match для enum
+- [ ] Kafka, в чому різниця від реляційних баз
+- [ ] Що таке OLTP бази та OLAP бази
+- [ ] Збереження змін в базі як зліпок
+- [x] Налаштувати --parallel для тестів (`GRANT ALL PRIVILEGES ON \**.\** TO 'eddy_user'@'%' WITH GRANT OPTION;`)
+- [x] Діаграма бази в штормі
+- [ ] Що таке тротлер
+- [ ] BelongsToManyWithLog
+- [ ] https://bitbucket.org/eddyorgua/eddy-lms-backend/src/develop/app/Modules/Documents/Listeners/DocumentCreatedNotificatation.php
+- [ ] "Лямбду в роутах вставив"
+- [ ] php-fpm
+- [ ] Laravel Concurrency (з версії 11.23 вроді)
+- [ ] Event Sourcing
+- [ ] Розібратись з передачою файлів між фронтом і беком
+- [ ] Почитати за ::query()->union()
+- [ ] (new Mark)->getMorphClass()
+- [ ] https://www.youtube.com/shorts/_lZV76JO3WU
+- [ ] date_i18n
+- [ ] What is partition in SQL
+
+- [https://learnxinyminutes.com/docs/php/](https://learnxinyminutes.com/docs/php/)
+- Навчись робити вдвічі більше за менше часу (книга по скраму)
+- Разработка веб приложений с помощью ПХП і МСКЛ (Веллінг, Томсон)
+- Рефакторинг Fauler
+- Патерни проєктування O'Reilly
+- Проект Фенікс
+- Програміст прагматик  
+- Бек - екстремальне програмування  
+- Мартін - Ідеальний програміст
